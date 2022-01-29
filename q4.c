@@ -29,7 +29,7 @@ int main(){
 
     for(i = 0; i < tam; i++){
         for(j = 0; j < tam; j++){
-            if(i == 3 || i == 7){
+            if(i == 2 || i == 6){
                 soma = soma + A[i][j];
             }
         }
